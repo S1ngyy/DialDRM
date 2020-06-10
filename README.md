@@ -1,5 +1,8 @@
 # DialDRM
  "Interactive Keygen" for oldschool codewheel DRMs ... on your PS Vita
+ 
+## Currently supported games:
+* The Secret of Monkey Island (Dial-a-Pirate)
 
 ## Roadmap
 
